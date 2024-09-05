@@ -44,6 +44,11 @@ python3 app.py
 
 This will start the Flask server on **`localhost:5000`**. Navigate to [http://localhost:5000/](http://localhost:5000/) on your browser to access the application.
 
+Backend real-time CPU and memory utilization.
+
+![](output1.jpg)
+![](output2.jpg)
+
 ## **Part 2: Dockerizing the Flask application**
 
 ### **Step 1: Create a Dockerfile**
